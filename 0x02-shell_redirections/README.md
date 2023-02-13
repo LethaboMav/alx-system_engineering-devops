@@ -1,1 +1,1 @@
-Redirection and filters that help redefine where standard output goes
+# This directory contains basic scripts performing redirection operations
