@@ -1,0 +1,1 @@
+# This directory contains shell scripts that perform variable expansion operations amongst other things. 
